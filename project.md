@@ -15,9 +15,6 @@ knit        : slidify::knit2slides
 
 This application allows drivers to enter some information about their vehicles, and then, they will be able to make predictions for their vehicles' MPG. 
 
-The app can be accessed at:
-https://xiaomi0803.shinyapps.io/App-1/
-Note: It might turns grey in some machines. If so, try a different machine.
 
 
 --- .class #id 
@@ -56,9 +53,15 @@ Fit the data into a linear regression model. This model has a R-squared value of
 
 --- .class #id 
 
-## Shiny App Screenshot
+## Shiny App Intructions
 
-#![width](/Users/Yanshu/Developing-Data-Products/image1.png)
+* Insert the values on the left
+* Click "Submit" Button!
+* You will see the prediction of the MPG on the right
+
+The app can be accessed at:
+https://xiaomi0803.shinyapps.io/App-1/
+Note: It might turns grey in some machines. If so, try a different machine.
 
 
 
